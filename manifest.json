@@ -1,0 +1,81 @@
+{
+  "status": "Local draft; not published.",
+  "archive_bytes": 15070655,
+  "files": [
+    {
+      "name": "01_evening_companion_english.jpg",
+      "bytes": 138145,
+      "sha256": "68c2de510c1f269e8be7b4f4a2c31ff43b8130307622520dd818fbd2e4137c03"
+    },
+    {
+      "name": "03_a_little_adventure_english.jpg",
+      "bytes": 109005,
+      "sha256": "039cf623afbb3b5b1cfb4b8a056a4e98928d79010a647771f7aefbe26f2fc4ea"
+    },
+    {
+      "name": "06_room_1_english.jpg",
+      "bytes": 242766,
+      "sha256": "f0c0d7dd714fb68d0f294feb729ec8dc09578f0badd6e5c9b9e4eea0850c64fc"
+    },
+    {
+      "name": "11_plan_your_day_english.jpg",
+      "bytes": 338675,
+      "sha256": "85bb409b4784347e210c0cd63a7be3f7dc3bee1652dc5c1f8054281f8dc1813c"
+    },
+    {
+      "name": "12_notes_for_today_english.jpg",
+      "bytes": 326409,
+      "sha256": "ad7c9a18a44af754a14957f90c5ad5fff1191852b928107e30b9f3ca349c4982"
+    },
+    {
+      "name": "factsheet.json",
+      "bytes": 1957,
+      "sha256": "74d73ccb072c3b11bb9d9867c2689ce805e7b1f96e85b8ded998dc7d585b9d07"
+    },
+    {
+      "name": "game-logo.png",
+      "bytes": 65965,
+      "sha256": "3fc14a003f585baea73979a96cb8bb0f5470f7f69a8882754f147059cf8da692"
+    },
+    {
+      "name": "gameplay-trailer-42s-silent.mp4",
+      "bytes": 41819339,
+      "sha256": "7fb61ac793f2fcdf6b53b30477d44230a1dd7fcd58bc02f689a4d9b70840c837"
+    },
+    {
+      "name": "header-capsule.png",
+      "bytes": 438534,
+      "sha256": "c01f67eca3dc1595bff758f64643d190ec33bc14ee59b1db7c0cdd9c54e90f0d"
+    },
+    {
+      "name": "product-en.txt",
+      "bytes": 1429,
+      "sha256": "e9848abe92cfc5232fbf8f0467e560c34ad9dbb36bd8396f850c6bc2fd218144"
+    },
+    {
+      "name": "product-ja.txt",
+      "bytes": 1615,
+      "sha256": "6f3aa7bc2229960fce3718c7ac9aead5b9543861f4d610d734077534411cf92d"
+    },
+    {
+      "name": "README.txt",
+      "bytes": 604,
+      "sha256": "c34445ef9e7986c6b880d003eaa771558b592a99d34fe760c5f9bf7f9c2ff894"
+    },
+    {
+      "name": "room-cat-20s-en-silent.mp4",
+      "bytes": 998732,
+      "sha256": "a15fcd41fba63a56cbe5ebed550c498af16788a2238f5a63c656c24f7744452d"
+    },
+    {
+      "name": "room-cat-20s-ja-silent.mp4",
+      "bytes": 1014804,
+      "sha256": "c4321ca4700b4fd1cde741999402bc5bb000f0389fc971ba57f44c8ed34227e4"
+    },
+    {
+      "name": "studio-icon.png",
+      "bytes": 1187299,
+      "sha256": "cb585d54cb94eee621be3b9caf967069eea17712bc0c0e96ea3509e40d6aa103"
+    }
+  ]
+}
