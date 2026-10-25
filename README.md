@@ -6,4 +6,6 @@ Press kit: https://novare-orbis.com/en/press/cozy-cat-room/
 
 Download screenshots, logos and silent gameplay footage from Releases. These materials may be used for editorial coverage of Cozy Cat Room, including monetized videos. This permission does not include standalone game assets or music.
 
-Contact: novare.orbis@gmail.com
+Press: press@novare-orbis.com
+
+Support: support@novare-orbis.com
