@@ -1,7 +1,7 @@
 {
   "status": "Official public press kit; media distributed through GitHub Releases.",
   "public_url": "https://novare-orbis.com/ja/press/cozy-cat-room/",
-  "archive_bytes": 15070669,
+  "archive_bytes": 15070700,
   "files": [
     {
       "name": "01_evening_companion_english.jpg",
@@ -30,8 +30,8 @@
     },
     {
       "name": "factsheet.json",
-      "bytes": 2007,
-      "sha256": "8b38108484bbeb5d2532b9c8ce9db8fcc55185067414a943611568b8c6a02408"
+      "bytes": 2079,
+      "sha256": "1208d89db3fd6fe4e933202508badb3c6b12b5e67f8a31c4b9ac3bd49b900756"
     },
     {
       "name": "game-logo.png",
