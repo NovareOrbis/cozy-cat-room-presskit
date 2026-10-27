@@ -1,67 +1,67 @@
 {
   "release_tag": "presskit-2026-10-27-v7",
   "public_url": "https://novare-orbis.com/ja/press/cozy-cat-room/",
-  "archive_bytes": 3998846,
+  "archive_bytes": 4234625,
   "files": [
     {
       "name": "01_daytime_companion.jpg",
-      "bytes": 140874,
-      "sha256": "21d0ae4641640550d8502c08a9216585f92ce443f66e8436a2b27476ef8a3452"
+      "bytes": 137147,
+      "sha256": "05d06d44a7460948ac5bbfc4242ca3fe32cf2be8c6f0456c754d92ef529c0a71"
     },
     {
       "name": "02_evening_rest.jpg",
-      "bytes": 98887,
-      "sha256": "4628611aedc9ffe27cd4ab7c65f3f1b3b355032993b903ac9b2ee25b1bb3e5bc"
+      "bytes": 99997,
+      "sha256": "3699ae0d56298c65d73e315bef907d9479a43fe03ad3b42ec9cff3b37d65e49d"
     },
     {
       "name": "03_evening_companion.jpg",
-      "bytes": 70105,
-      "sha256": "36e873163a1aafcd9dbd6bf0e909bd501ea3b898e330f2c45ba60b8a7fbb2cf9"
+      "bytes": 35897,
+      "sha256": "2936bbcc88d0d53520ff683cb3ee60090dba7bfb8f188c0a243d0c10d05f3b3c"
     },
     {
       "name": "04_oak_room.jpg",
-      "bytes": 270847,
-      "sha256": "0b784fbf7d64caaef871a6576054fd78991b404df01735f6bfa3b838f8a9382a"
+      "bytes": 264563,
+      "sha256": "1b4464a456960f07cdafcf3c3d880da00b2a6af68e41b83be036580c1d756b6d"
     },
     {
       "name": "05_birch_room.jpg",
-      "bytes": 168760,
-      "sha256": "91455f131536b173b41987fa7d921f1fae367c6e8516bda3ea1447ed5a891ce5"
+      "bytes": 155768,
+      "sha256": "eadd1efcb14f21a4943b7ad7b1236fc5995f058d632436683cfac7d898d9da53"
     },
     {
       "name": "06_evening_room.jpg",
-      "bytes": 135888,
-      "sha256": "9cc0e7ac511ef61422554539d10b4a196c63ee1dad594cd583540d6b563546e3"
+      "bytes": 119250,
+      "sha256": "7dee79c1a8db112c38c3bddc3acc3a0ee3c52ab23052b28086fd6876129d3583"
     },
     {
       "name": "companion-wide.jpg",
-      "bytes": 21632,
-      "sha256": "c9087f84fd39da801faee7d7ec3a40561ed800083c10f24c5728ec226028170c"
+      "bytes": 19224,
+      "sha256": "80a5c17581373ec065a795eb5ff09ff8b28d0cc378a96ae38d4a2496500c7629"
     },
     {
       "name": "companion-wide.gif",
-      "bytes": 160966,
-      "sha256": "e316f0ab437b528a1cdb01fa49514b480dacbf71366910848ffb5225b9a8147d"
+      "bytes": 365378,
+      "sha256": "a657d7e71ca3de7b449ec28eda44f463470826d39267e456780905095bf57898"
     },
     {
       "name": "companion-wide.mp4",
-      "bytes": 35737,
-      "sha256": "aeb2d748ca5b9509d479d75146fb33d60937fab7e09dbe11df0b70c410dd28ff"
+      "bytes": 40886,
+      "sha256": "c8bfe74e1e1284edc1cabd95b5debe60838469006a5726d83c6816168932458b"
     },
     {
       "name": "room-wide.jpg",
-      "bytes": 38768,
-      "sha256": "3b6f3f997897e981ef35da4244d796cabfc2cd1bbe5ff14c97c1d52395e20867"
+      "bytes": 38290,
+      "sha256": "98e11608e1d391be18601926f4a7e6dacdd587627c5b9091310bb2d599b0499b"
     },
     {
       "name": "room-wide.gif",
-      "bytes": 147407,
-      "sha256": "4ea727622f5fb228b3fee6d1a1d289c4342325ecd2af008ac47fff6b910e11f1"
+      "bytes": 146681,
+      "sha256": "a07ab1fda51d3d4e4be04439a1d3765ca7bd61d311330be955f75ee898311ba1"
     },
     {
       "name": "room-wide.mp4",
-      "bytes": 88596,
-      "sha256": "30d14131474535d37298f3f284808b73fe854dc19fe4fe6922786e0dc55e2e64"
+      "bytes": 87417,
+      "sha256": "bcea8fcbdc78334f2dac8fd8c8a2ae3afde3e9eb8722fd40ee79093d928f0f22"
     },
     {
       "name": "pomodoro-wide.jpg",
@@ -80,23 +80,23 @@
     },
     {
       "name": "music-wide.jpg",
-      "bytes": 23289,
-      "sha256": "653e3c7733d5608e2259d02abbe4d809882a5f5787ae1010c46d756240f89daa"
+      "bytes": 20792,
+      "sha256": "7e093d2bdb8a37460bfc2551a2b9dd3bf498dc8fc0688ca0dfbea461e5a6032c"
     },
     {
       "name": "quiet-time-wide.jpg",
-      "bytes": 7989,
-      "sha256": "75495c0f544a7589425d4c6b94fcd75ddf94619cc8a0348457e94a73029d9817"
+      "bytes": 7494,
+      "sha256": "2fcd0e7af5c062b5eb9fd6d1eb6df7d20e1672eaeb46d3d48697beeb50f4fe58"
     },
     {
       "name": "quiet-time-wide.gif",
-      "bytes": 94699,
-      "sha256": "7e6226c3251c00acdd052cab7736b34981645678513c3f94e6592017b1838190"
+      "bytes": 184019,
+      "sha256": "1832c2f65a270353eba5013f95377fc68727089fc653b441e60aba69fa79fd2f"
     },
     {
       "name": "quiet-time-wide.mp4",
-      "bytes": 13452,
-      "sha256": "e53fad1a7e4e0afc4f15099c0c8279d816d6e0ed05b0523da43431a79c146746"
+      "bytes": 16491,
+      "sha256": "efe909dfb73a2bfc262da5dff9c0ac5abf3f0fa5e2c77b7827c34a0d4de4af98"
     },
     {
       "name": "game-logo.png",
@@ -115,8 +115,8 @@
     },
     {
       "name": "gameplay-20s-silent.mp4",
-      "bytes": 1000728,
-      "sha256": "1e5b5c3fca4cce9e1effb3300292c56982109137670a5ea35aa5841cf71bfd85"
+      "bytes": 1013193,
+      "sha256": "49bae1abd6366a290455208f9ac97aee6cc9a23077fdaea39bee794192ca0ea1"
     },
     {
       "name": "about-ja.txt",
@@ -140,8 +140,8 @@
     },
     {
       "name": "factsheet.json",
-      "bytes": 3839,
-      "sha256": "a537a64c8e33e844c25b0d0128399568ac5b3c7d3d80ee6dd289cddbd3083771"
+      "bytes": 3857,
+      "sha256": "0f8357892c2ab0215d35fe5cedaad806e9397a3e3c562766a66c33d8c7f54693"
     },
     {
       "name": "README.txt",
