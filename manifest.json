@@ -1,67 +1,67 @@
 {
-  "release_tag": "presskit-2026-10-27-v8",
+  "release_tag": "presskit-2026-10-27-v7",
   "public_url": "https://novare-orbis.com/ja/press/cozy-cat-room/",
-  "archive_bytes": 4154887,
+  "archive_bytes": 4294628,
   "files": [
     {
-      "name": "01_birch_companion.jpg",
-      "bytes": 99609,
-      "sha256": "fac0d18f9e7df630c36aba504f4f8a539556a92208129db4d5755a4c1666e0f0"
+      "name": "01_daytime_companion.jpg",
+      "bytes": 226642,
+      "sha256": "28c5f57d1e5891123c78c969339077723f7340d6223de46d71a43231716a9aea"
     },
     {
-      "name": "02_dark_oak_evening.jpg",
-      "bytes": 103816,
-      "sha256": "fd501afb245471cc5426e684eb0dd57faf095f380992e5c2aa2bb402d68b7c5a"
+      "name": "02_evening_rest.jpg",
+      "bytes": 112583,
+      "sha256": "fffc693fc8d4a57b6395e94ad420d301df897615b417670a1ba81139c93fcf3b"
     },
     {
-      "name": "03_room_editor.jpg",
-      "bytes": 217524,
-      "sha256": "e9ad82007b150dd5de345617e2b8b712a2f6efe4889451f6526ea00621524d0d"
+      "name": "03_evening_companion.jpg",
+      "bytes": 123758,
+      "sha256": "bb7644165231f28ec661921a97c846b5dacac8ac8cffa5b53ffaeaead5e87f10"
     },
     {
-      "name": "04_todo_schedule.jpg",
-      "bytes": 142508,
-      "sha256": "fb77e779d71b357fca83f8dcaa9e0e7d082d0c22c079f3d4b2f929817a206751"
-    },
-    {
-      "name": "05_music_window.jpg",
-      "bytes": 141062,
-      "sha256": "1c93394c534097efeb9a14f500c2bc449a19208349c817e706969457cd390d9d"
-    },
-    {
-      "name": "06_oak_layout.jpg",
+      "name": "04_oak_room.jpg",
       "bytes": 225266,
       "sha256": "4a44ec5dd7cd0026c2bf01c4b7110c823b112c5ab370a49d37d8fd296efde1e9"
     },
     {
+      "name": "05_birch_room.jpg",
+      "bytes": 162674,
+      "sha256": "7a2e59beaaeb7de599f96074579b65b8de6243a3b8ace81d7db34c7b0c7b5bb8"
+    },
+    {
+      "name": "06_evening_room.jpg",
+      "bytes": 205379,
+      "sha256": "912d28dfdbd70462023a3e4369575d9341c3470f32d711ace4a7b1e7e865c3ef"
+    },
+    {
       "name": "companion-wide.jpg",
-      "bytes": 17366,
-      "sha256": "1e10e796fb2ac76eec08509dd49390bd43e06032ae864aff0ea81f2a459c2397"
+      "bytes": 20447,
+      "sha256": "424342a27b860a3ae440b91bf59b0e7b8b5d0ab5ff62141d99c46f4d3daec361"
     },
     {
       "name": "companion-wide.gif",
-      "bytes": 154151,
-      "sha256": "562a24bdcd6d2919d851309bb4e97e99965b74a43d9641ccbbfe6cf67f3fb13e"
+      "bytes": 276887,
+      "sha256": "b9a7065384557fed017eba7dd4eb3ebbbafc77bcd66053ebd6cc8a0fcaa4e52b"
     },
     {
       "name": "companion-wide.mp4",
-      "bytes": 27773,
-      "sha256": "6ef33c21e0669130e860035a4c860e13fc5eacc22f44a6ecdb712f4281204aa8"
+      "bytes": 39998,
+      "sha256": "2eec47e569ed19e699b7472b3f889acdfa114b703b8bfa39f1f5b2271bb40493"
     },
     {
       "name": "room-wide.jpg",
-      "bytes": 28360,
-      "sha256": "b265f63d31e0b9380fe48216c4fbab6a3b223d3f204dad3757d5740246de7d72"
+      "bytes": 20594,
+      "sha256": "711f5526056008c7c66c2ad68e3fd79bbdf5e67c23a65f2b5e386c6cbc081bbc"
     },
     {
       "name": "room-wide.gif",
-      "bytes": 158701,
-      "sha256": "26a9b8668630a99ab1c2c3e0337ab9f59c8b4d328616e25b44ddfdb881beaf8c"
+      "bytes": 133810,
+      "sha256": "e05201c9d90c5aa2d0803fa8a6e11c086cae0f4d3ba8c46bf1e2c43a0734dfda"
     },
     {
       "name": "room-wide.mp4",
-      "bytes": 90179,
-      "sha256": "7682dae5b91dbae1b13439f6930743f344289ae246c2558eab4f911e8242d99e"
+      "bytes": 72958,
+      "sha256": "aa7c1ed9ca8643c265865fae6da99e5bb7fc6a8eac6a1bf4fd9fff31970fb2bc"
     },
     {
       "name": "pomodoro-wide.jpg",
@@ -79,29 +79,24 @@
       "sha256": "4421efb5ca42837cfd6236fbc6ed361ca058e389c7300b6cc0360eadafa85027"
     },
     {
-      "name": "plan-wide.jpg",
-      "bytes": 25670,
-      "sha256": "59f4e1075538ec3fbc4096e3accc3d2a8409e13024b307c12db2c56428b8cea1"
-    },
-    {
       "name": "music-wide.jpg",
-      "bytes": 25470,
-      "sha256": "b833170095dfac966b1c59dc05f318d7d9ccdef2907c497237936eb427211399"
+      "bytes": 19744,
+      "sha256": "2a1d9bf7b92cfd6f89d4c3d1d6a86d7a7e52f8c1900da29b02e3ccc8862ca178"
     },
     {
       "name": "quiet-time-wide.jpg",
-      "bytes": 17708,
-      "sha256": "99a68edecd8d4a8ff85c2b235a78c07eae40ac34fb188a24151a79047891f23f"
+      "bytes": 21711,
+      "sha256": "fc1523dedd00d2a9c11e4503cbd3dfa554e9126704fa36a957d5ba7267e8f460"
     },
     {
       "name": "quiet-time-wide.gif",
-      "bytes": 187289,
-      "sha256": "f993f2cf14324dbfa26ad0d490b6171c4d55640d170983dc6bf6d2144e743927"
+      "bytes": 123482,
+      "sha256": "4dc54e69b5a89ada9e14831582c76cf8c67c79a7e24d2619c624fe394353cd7f"
     },
     {
       "name": "quiet-time-wide.mp4",
-      "bytes": 31864,
-      "sha256": "2a9082b3e920d1089fd30fc19ed178842978c6ab310c3f3db29cf647d4da62e6"
+      "bytes": 31895,
+      "sha256": "e92800ff565f4fa43aef833a097079d228ec7ce2fac1f9114b7a2a3becaf0243"
     },
     {
       "name": "game-logo.png",
@@ -119,44 +114,44 @@
       "sha256": "cb585d54cb94eee621be3b9caf967069eea17712bc0c0e96ea3509e40d6aa103"
     },
     {
-      "name": "gameplay-17s-silent.mp4",
-      "bytes": 1008680,
-      "sha256": "9e7201de4aac879704902b16109fece4de2655e41f4ee32a7f1cc7162b7109d3"
+      "name": "gameplay-20s-silent.mp4",
+      "bytes": 1033412,
+      "sha256": "c8797e277184f0232fff30a3996f86edd1c2381df7bc8793802e51857ff67361"
     },
     {
       "name": "about-ja.txt",
-      "bytes": 2085,
-      "sha256": "ae9fcb35c8ed8dbae3eaac016362d4954e0b34a444bc6938224bdd77a31de751"
+      "bytes": 1766,
+      "sha256": "201554930c7096d939e49bf1c2aff9b1e9d656bad6e342f4cf5e2f8ad707e5c9"
     },
     {
       "name": "product-ja.txt",
-      "bytes": 2431,
-      "sha256": "d3050c3d26abc6d2aac5c711d29ee66ea79e66f64c8c7ad95107b12669b92ee5"
+      "bytes": 2112,
+      "sha256": "daea8d553a33cb8277fb7d2a68c6b38df09e7ed0228b41190ef0162f47517551"
     },
     {
       "name": "about-en.txt",
-      "bytes": 1567,
-      "sha256": "7f3841bd2986a30dbf9caff552fe306b4e4481c5dea22a3f547c385bdaa0973d"
+      "bytes": 1321,
+      "sha256": "d9ccb759728796c9f297db3145063bdcf151972a2a2d4ce051cf461f2325fe04"
     },
     {
       "name": "product-en.txt",
-      "bytes": 1824,
-      "sha256": "62914352d93ff8dc0595437951b431d8d7b3a63b4e13547c179b783d6285cdc5"
+      "bytes": 1578,
+      "sha256": "b0cc9541d30b5b9729bb414d0ff10024b19f184e79ae6c3aab4cc3f6b99b98cc"
     },
     {
       "name": "factsheet.json",
-      "bytes": 3821,
-      "sha256": "5edb1b97257716e5285b477d8d4f77284936b73246886ba77010cea804d9bc9b"
+      "bytes": 3758,
+      "sha256": "8961f57b2b4bf461b5ccfb33715362953074dd19a69de77f496394754c2ff1e2"
     },
     {
       "name": "README.txt",
-      "bytes": 622,
-      "sha256": "338bcfc3eb2f10c6ce9ebbb8e8bd6aca6877f2f7f6fb127d92c719031de808a1"
+      "bytes": 606,
+      "sha256": "94d1a1cb375efdc0377cb0b393f49ad866829c2ae4c2abebe30a4fa1bd247ba1"
     },
     {
       "name": "index.html",
-      "bytes": 1962,
-      "sha256": "197aea48527398986d06dc2b3e7413af865783f713fc01d45528627f9386ba6e"
+      "bytes": 1910,
+      "sha256": "69b06cfd4a145ea2ff502593ada8b68a968d4125be4f028096c9fdbaa92bb379"
     }
   ]
 }
