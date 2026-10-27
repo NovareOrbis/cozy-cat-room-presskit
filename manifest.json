@@ -1,7 +1,7 @@
 {
-  "status": "Official public press kit; media distributed through GitHub Releases.",
+  "release_tag": "presskit-2026-10-27-v5",
   "public_url": "https://novare-orbis.com/ja/press/cozy-cat-room/",
-  "archive_bytes": 15071654,
+  "archive_bytes": 17371676,
   "files": [
     {
       "name": "01_evening_companion_english.jpg",
@@ -50,18 +50,18 @@
     },
     {
       "name": "product-en.txt",
-      "bytes": 1487,
-      "sha256": "a25d25c04640989a84050399133a069d9b7886ecb3a01b1122a891fe0ba5c72d"
+      "bytes": 3127,
+      "sha256": "5d2aaf0885c886678799795c22658d6ae7bcb5dcb46d2d5aba17befc2a5ede63"
     },
     {
       "name": "product-ja.txt",
-      "bytes": 1612,
-      "sha256": "c0c9d7a021e7a1bc206678b60a6a96342a300fa768aee8198cdfbda0e57a4da8"
+      "bytes": 3730,
+      "sha256": "ee81e5eb786cd164bb3b959162a155433f26978e76e30b86924367d1667083b9"
     },
     {
       "name": "README.txt",
-      "bytes": 639,
-      "sha256": "319cdab3da1ab8593cd806efd0b8656c07ca103cb5f667187902882a1b1eca91"
+      "bytes": 697,
+      "sha256": "9ac0f3ad4ce9536a55a32ff988d8865cbd675b8066240eea912f9490da0a8b4f"
     },
     {
       "name": "room-cat-20s-en-silent.mp4",
@@ -77,7 +77,66 @@
       "name": "studio-icon.png",
       "bytes": 1187299,
       "sha256": "cb585d54cb94eee621be3b9caf967069eea17712bc0c0e96ea3509e40d6aa103"
+    },
+    {
+      "name": "04_focus_together_english.jpg",
+      "bytes": 128301,
+      "sha256": "d75079cabdb040124834faf8b55d8dcb93eb6bac2fbfdb12e26f812baa823dde"
+    },
+    {
+      "name": "13_cat_progress_english.jpg",
+      "bytes": 308671,
+      "sha256": "4c97ab74d24bac0f7310f5b88b5bf08103db503d8d99c7b2f8fdccc62af2e2b8"
+    },
+    {
+      "name": "14_music_and_rain_english.jpg",
+      "bytes": 320110,
+      "sha256": "e189af84c56c5c3568d2bde72eb717469a1bbf6f7b378a94ea10ee5c471428dd"
+    },
+    {
+      "name": "15_focus_settings_english.jpg",
+      "bytes": 328116,
+      "sha256": "86b509aedfd470144eef91d0afc720b4092c9c3e77f0883e0746d78428d64598"
+    },
+    {
+      "name": "cat-company.mp4",
+      "bytes": 128839,
+      "sha256": "27105c0a25e8b324cc2168a8adb6eb9f2add91073ae78d23c82302f8c516c721"
+    },
+    {
+      "name": "cat-company.jpg",
+      "bytes": 55271,
+      "sha256": "2d8503a2ab1aebd7b118304ace673f260ceee6b4e0fb791d60cb15c659688f51"
+    },
+    {
+      "name": "make-your-room.mp4",
+      "bytes": 327621,
+      "sha256": "f32520302d140e51135e83a04e3c7c33bdd6ec40ebe4a478ad48cb6cddc95a03"
+    },
+    {
+      "name": "make-your-room.jpg",
+      "bytes": 107385,
+      "sha256": "0b8e346287fb46f1e2190ab7f23bd10142a3ab2a3ac280072a284c7ba5608f25"
+    },
+    {
+      "name": "pomodoro.mp4",
+      "bytes": 555691,
+      "sha256": "c6e29941b74736b324bda29a8cffa35478f435890685cd18261baeeb6019e9b5"
+    },
+    {
+      "name": "pomodoro.jpg",
+      "bytes": 62496,
+      "sha256": "5fbaa230f041b10b094d47e9d7e9efc2fba7027f7c6bae03764987a30bd19636"
+    },
+    {
+      "name": "about-ja.txt",
+      "bytes": 2426,
+      "sha256": "a00daba0e9a67c526c1b79587e8df718ffbdd688fac7d9384ceef48b3f1ad2d5"
+    },
+    {
+      "name": "about-en.txt",
+      "bytes": 1840,
+      "sha256": "3126b4fcbb73b462048df758aff93be72b0f7dd84e930b2eb570953ae49fd251"
     }
-  ],
-  "release_tag": "presskit-2026-10-27-v4"
+  ]
 }
