@@ -1,7 +1,7 @@
 {
   "status": "Official public press kit; media distributed through GitHub Releases.",
   "public_url": "https://novare-orbis.com/ja/press/cozy-cat-room/",
-  "archive_bytes": 15071751,
+  "archive_bytes": 15071654,
   "files": [
     {
       "name": "01_evening_companion_english.jpg",
@@ -30,8 +30,8 @@
     },
     {
       "name": "factsheet.json",
-      "bytes": 3750,
-      "sha256": "40719aeb0a044004e415db23a4ed80c0101b63df600c56acd3f667e3c717ac55"
+      "bytes": 3602,
+      "sha256": "c18830ac10672ebe2b931fa06319085b87c6ee4918446de39c3e8bcac0f194d8"
     },
     {
       "name": "game-logo.png",
@@ -50,13 +50,13 @@
     },
     {
       "name": "product-en.txt",
-      "bytes": 1521,
-      "sha256": "4db07869f3156d7d345d02e63523c1273041c03fa7c699b6db94f24ffc6d7a21"
+      "bytes": 1487,
+      "sha256": "a25d25c04640989a84050399133a069d9b7886ecb3a01b1122a891fe0ba5c72d"
     },
     {
       "name": "product-ja.txt",
-      "bytes": 1726,
-      "sha256": "6e238f6f70aafac7f70d97c0862ea74930b6e89f6e3ed478c3e1f436960b94b1"
+      "bytes": 1612,
+      "sha256": "c0c9d7a021e7a1bc206678b60a6a96342a300fa768aee8198cdfbda0e57a4da8"
     },
     {
       "name": "README.txt",
@@ -79,5 +79,5 @@
       "sha256": "cb585d54cb94eee621be3b9caf967069eea17712bc0c0e96ea3509e40d6aa103"
     }
   ],
-  "release_tag": "presskit-2026-10-27-v3"
+  "release_tag": "presskit-2026-10-27-v4"
 }
