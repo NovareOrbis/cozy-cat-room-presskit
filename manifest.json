@@ -1,37 +1,102 @@
 {
-  "release_tag": "presskit-2026-10-27-v6",
+  "release_tag": "presskit-2026-10-27-v7",
   "public_url": "https://novare-orbis.com/ja/press/cozy-cat-room/",
-  "archive_bytes": 20670196,
+  "archive_bytes": 4294628,
   "files": [
     {
-      "name": "01_evening_companion_english.jpg",
+      "name": "01_daytime_companion.jpg",
       "bytes": 226642,
       "sha256": "28c5f57d1e5891123c78c969339077723f7340d6223de46d71a43231716a9aea"
     },
     {
-      "name": "03_a_little_adventure_english.jpg",
-      "bytes": 218707,
-      "sha256": "bf6011036eb5decee19163e452b78e84047ef2be3a7b56f9d79c38d123d483c7"
+      "name": "02_evening_rest.jpg",
+      "bytes": 112583,
+      "sha256": "fffc693fc8d4a57b6395e94ad420d301df897615b417670a1ba81139c93fcf3b"
     },
     {
-      "name": "06_room_1_english.jpg",
+      "name": "03_evening_companion.jpg",
+      "bytes": 123758,
+      "sha256": "bb7644165231f28ec661921a97c846b5dacac8ac8cffa5b53ffaeaead5e87f10"
+    },
+    {
+      "name": "04_oak_room.jpg",
       "bytes": 225266,
       "sha256": "4a44ec5dd7cd0026c2bf01c4b7110c823b112c5ab370a49d37d8fd296efde1e9"
     },
     {
-      "name": "11_plan_your_day_english.jpg",
-      "bytes": 330882,
-      "sha256": "7aeefa6a8b51bfc96eede4567c5a49fe7a7ad6c8e26d907e46e3fada1474dc87"
+      "name": "05_birch_room.jpg",
+      "bytes": 162674,
+      "sha256": "7a2e59beaaeb7de599f96074579b65b8de6243a3b8ace81d7db34c7b0c7b5bb8"
     },
     {
-      "name": "12_notes_for_today_english.jpg",
-      "bytes": 329086,
-      "sha256": "eeec73f77032ab2c77d321c5da7f97dcbf45f304caff1b0a417e9eb40cb6fbdb"
+      "name": "06_evening_room.jpg",
+      "bytes": 205379,
+      "sha256": "912d28dfdbd70462023a3e4369575d9341c3470f32d711ace4a7b1e7e865c3ef"
     },
     {
-      "name": "factsheet.json",
-      "bytes": 3602,
-      "sha256": "c18830ac10672ebe2b931fa06319085b87c6ee4918446de39c3e8bcac0f194d8"
+      "name": "companion-wide.jpg",
+      "bytes": 20447,
+      "sha256": "424342a27b860a3ae440b91bf59b0e7b8b5d0ab5ff62141d99c46f4d3daec361"
+    },
+    {
+      "name": "companion-wide.gif",
+      "bytes": 276887,
+      "sha256": "b9a7065384557fed017eba7dd4eb3ebbbafc77bcd66053ebd6cc8a0fcaa4e52b"
+    },
+    {
+      "name": "companion-wide.mp4",
+      "bytes": 39998,
+      "sha256": "2eec47e569ed19e699b7472b3f889acdfa114b703b8bfa39f1f5b2271bb40493"
+    },
+    {
+      "name": "room-wide.jpg",
+      "bytes": 20594,
+      "sha256": "711f5526056008c7c66c2ad68e3fd79bbdf5e67c23a65f2b5e386c6cbc081bbc"
+    },
+    {
+      "name": "room-wide.gif",
+      "bytes": 133810,
+      "sha256": "e05201c9d90c5aa2d0803fa8a6e11c086cae0f4d3ba8c46bf1e2c43a0734dfda"
+    },
+    {
+      "name": "room-wide.mp4",
+      "bytes": 72958,
+      "sha256": "aa7c1ed9ca8643c265865fae6da99e5bb7fc6a8eac6a1bf4fd9fff31970fb2bc"
+    },
+    {
+      "name": "pomodoro-wide.jpg",
+      "bytes": 7838,
+      "sha256": "a6bfc0476d0782fd13c14f62576c7b6a7a93045fc02cc580c1c95d09d7e0c8bc"
+    },
+    {
+      "name": "pomodoro-wide.gif",
+      "bytes": 96073,
+      "sha256": "68e2a0f160c2d866bb5c936bad22e0d42d2ec7c651bf449dc4f6eef9901ad079"
+    },
+    {
+      "name": "pomodoro-wide.mp4",
+      "bytes": 18811,
+      "sha256": "4421efb5ca42837cfd6236fbc6ed361ca058e389c7300b6cc0360eadafa85027"
+    },
+    {
+      "name": "music-wide.jpg",
+      "bytes": 19744,
+      "sha256": "2a1d9bf7b92cfd6f89d4c3d1d6a86d7a7e52f8c1900da29b02e3ccc8862ca178"
+    },
+    {
+      "name": "quiet-time-wide.jpg",
+      "bytes": 21711,
+      "sha256": "fc1523dedd00d2a9c11e4503cbd3dfa554e9126704fa36a957d5ba7267e8f460"
+    },
+    {
+      "name": "quiet-time-wide.gif",
+      "bytes": 123482,
+      "sha256": "4dc54e69b5a89ada9e14831582c76cf8c67c79a7e24d2619c624fe394353cd7f"
+    },
+    {
+      "name": "quiet-time-wide.mp4",
+      "bytes": 31895,
+      "sha256": "e92800ff565f4fa43aef833a097079d228ec7ce2fac1f9114b7a2a3becaf0243"
     },
     {
       "name": "game-logo.png",
@@ -39,39 +104,9 @@
       "sha256": "3fc14a003f585baea73979a96cb8bb0f5470f7f69a8882754f147059cf8da692"
     },
     {
-      "name": "gameplay-trailer-42s-silent.mp4",
-      "bytes": 41819339,
-      "sha256": "7fb61ac793f2fcdf6b53b30477d44230a1dd7fcd58bc02f689a4d9b70840c837"
-    },
-    {
       "name": "header-capsule.png",
       "bytes": 438534,
       "sha256": "c01f67eca3dc1595bff758f64643d190ec33bc14ee59b1db7c0cdd9c54e90f0d"
-    },
-    {
-      "name": "product-en.txt",
-      "bytes": 3127,
-      "sha256": "5d2aaf0885c886678799795c22658d6ae7bcb5dcb46d2d5aba17befc2a5ede63"
-    },
-    {
-      "name": "product-ja.txt",
-      "bytes": 3730,
-      "sha256": "ee81e5eb786cd164bb3b959162a155433f26978e76e30b86924367d1667083b9"
-    },
-    {
-      "name": "README.txt",
-      "bytes": 697,
-      "sha256": "9ac0f3ad4ce9536a55a32ff988d8865cbd675b8066240eea912f9490da0a8b4f"
-    },
-    {
-      "name": "room-cat-20s-en-silent.mp4",
-      "bytes": 998732,
-      "sha256": "a15fcd41fba63a56cbe5ebed550c498af16788a2238f5a63c656c24f7744452d"
-    },
-    {
-      "name": "room-cat-20s-ja-silent.mp4",
-      "bytes": 1014804,
-      "sha256": "c4321ca4700b4fd1cde741999402bc5bb000f0389fc971ba57f44c8ed34227e4"
     },
     {
       "name": "studio-icon.png",
@@ -79,79 +114,44 @@
       "sha256": "cb585d54cb94eee621be3b9caf967069eea17712bc0c0e96ea3509e40d6aa103"
     },
     {
-      "name": "04_focus_together_english.jpg",
-      "bytes": 223541,
-      "sha256": "feac1713881a09e52a72bb962ba1adbe992e7600d995fe843fe742f0edbdf4b7"
-    },
-    {
-      "name": "13_cat_progress_english.jpg",
-      "bytes": 303495,
-      "sha256": "83d450507f6c6e80ab9c9e7c8c4d1cfafb10ed480f051e5e3af50fc355910581"
-    },
-    {
-      "name": "14_music_and_rain_english.jpg",
-      "bytes": 322453,
-      "sha256": "a11f0309d6194afcdf74576368162618a85adfb00c33bc0b8bd38420911074d5"
-    },
-    {
-      "name": "15_focus_settings_english.jpg",
-      "bytes": 323238,
-      "sha256": "8720a48a87f5144caf4e249df46ad128a9251434b02123f6cd1f7d847f376128"
-    },
-    {
-      "name": "cat-company.mp4",
-      "bytes": 173610,
-      "sha256": "d77cb91f21633b8d77a2cbd9f9b057de978b97581a5c481aa0dcd0c933dc48c9"
-    },
-    {
-      "name": "cat-company.jpg",
-      "bytes": 63960,
-      "sha256": "04344cfe5f7017a79933aa26fd524efda8a52a91e99d099838b4686410eaf9c0"
-    },
-    {
-      "name": "make-your-room.mp4",
-      "bytes": 188156,
-      "sha256": "23c0b09dffe201bc99471b108e0ff70fd784082a75b52f7e5c8dd246e6b2dcfa"
-    },
-    {
-      "name": "make-your-room.jpg",
-      "bytes": 54357,
-      "sha256": "403fbe7b49c9791afa523a5f48a1cbe422c3ce231c5fe398f7f8b400f296215f"
-    },
-    {
-      "name": "pomodoro.mp4",
-      "bytes": 66763,
-      "sha256": "4f4834ecac4970d3efe6507d07033719356cd52996a67170103b8fd6596239bc"
-    },
-    {
-      "name": "pomodoro.jpg",
-      "bytes": 23963,
-      "sha256": "a740514591b8999b1a33128f299be8d3d87aa84d14446f7dd9f0e1399d59c56d"
+      "name": "gameplay-20s-silent.mp4",
+      "bytes": 1033412,
+      "sha256": "c8797e277184f0232fff30a3996f86edd1c2381df7bc8793802e51857ff67361"
     },
     {
       "name": "about-ja.txt",
-      "bytes": 2426,
-      "sha256": "a00daba0e9a67c526c1b79587e8df718ffbdd688fac7d9384ceef48b3f1ad2d5"
+      "bytes": 1766,
+      "sha256": "201554930c7096d939e49bf1c2aff9b1e9d656bad6e342f4cf5e2f8ad707e5c9"
+    },
+    {
+      "name": "product-ja.txt",
+      "bytes": 2112,
+      "sha256": "daea8d553a33cb8277fb7d2a68c6b38df09e7ed0228b41190ef0162f47517551"
     },
     {
       "name": "about-en.txt",
-      "bytes": 1840,
-      "sha256": "3126b4fcbb73b462048df758aff93be72b0f7dd84e930b2eb570953ae49fd251"
+      "bytes": 1321,
+      "sha256": "d9ccb759728796c9f297db3145063bdcf151972a2a2d4ce051cf461f2325fe04"
     },
     {
-      "name": "cat-company.gif",
-      "bytes": 1992704,
-      "sha256": "c837cca12529eecf7ce5589e1a03ad8aac8a8b0bed6b6a9bce38ad260ae35ff5"
+      "name": "product-en.txt",
+      "bytes": 1578,
+      "sha256": "b0cc9541d30b5b9729bb414d0ff10024b19f184e79ae6c3aab4cc3f6b99b98cc"
     },
     {
-      "name": "make-your-room.gif",
-      "bytes": 985900,
-      "sha256": "e805cc8364d5ce6a185e5e208fa2eff2f81f01ef025c690ddda76e3c3db99804"
+      "name": "factsheet.json",
+      "bytes": 3758,
+      "sha256": "8961f57b2b4bf461b5ccfb33715362953074dd19a69de77f496394754c2ff1e2"
     },
     {
-      "name": "pomodoro.gif",
-      "bytes": 923752,
-      "sha256": "d826efb4e187f53ab07e65b0c275ea0ba7669e46bd38389aa4b10af615e0c8ae"
+      "name": "README.txt",
+      "bytes": 606,
+      "sha256": "94d1a1cb375efdc0377cb0b393f49ad866829c2ae4c2abebe30a4fa1bd247ba1"
+    },
+    {
+      "name": "index.html",
+      "bytes": 1910,
+      "sha256": "69b06cfd4a145ea2ff502593ada8b68a968d4125be4f028096c9fdbaa92bb379"
     }
   ]
 }
