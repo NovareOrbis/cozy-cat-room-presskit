@@ -1,37 +1,47 @@
 {
-  "release_tag": "presskit-2026-10-28-v8",
+  "release_tag": "presskit-2026-10-28-v9",
   "public_url": "https://novare-orbis.com/ja/press/cozy-cat-room/",
-  "archive_bytes": 4237952,
+  "archive_bytes": 4892973,
   "files": [
     {
-      "name": "01_daytime_companion.jpg",
-      "bytes": 137147,
-      "sha256": "05d06d44a7460948ac5bbfc4242ca3fe32cf2be8c6f0456c754d92ef529c0a71"
+      "name": "01_steam.jpg",
+      "bytes": 148073,
+      "sha256": "9746b66285ab807270557acc268eb192df094b079a9af0400a40d0da0c671593"
     },
     {
-      "name": "02_evening_rest.jpg",
-      "bytes": 99997,
-      "sha256": "3699ae0d56298c65d73e315bef907d9479a43fe03ad3b42ec9cff3b37d65e49d"
+      "name": "02_steam.jpg",
+      "bytes": 139041,
+      "sha256": "8cc165941345e559b37e01be2fc18bb8adbd719e676c1eee6c5c22d6de7c9117"
     },
     {
-      "name": "03_evening_companion.jpg",
-      "bytes": 35897,
-      "sha256": "2936bbcc88d0d53520ff683cb3ee60090dba7bfb8f188c0a243d0c10d05f3b3c"
+      "name": "03_steam.jpg",
+      "bytes": 120953,
+      "sha256": "440583621d8b1ec35a1055ee4f6042517f4f2555a8f0b2e15865e84ac423b691"
     },
     {
-      "name": "04_oak_room.jpg",
-      "bytes": 264563,
-      "sha256": "1b4464a456960f07cdafcf3c3d880da00b2a6af68e41b83be036580c1d756b6d"
+      "name": "04_steam.jpg",
+      "bytes": 238936,
+      "sha256": "2864e298e8683077e32e73b9cb5d90bf1830905fde20b5483db8a728e1fcd62c"
     },
     {
-      "name": "05_birch_room.jpg",
-      "bytes": 155768,
-      "sha256": "eadd1efcb14f21a4943b7ad7b1236fc5995f058d632436683cfac7d898d9da53"
+      "name": "05_steam.jpg",
+      "bytes": 243182,
+      "sha256": "1e6d9d0b8ef3b88980b39a4d01ce4c86ce8252befeb658bb16596f15c9366de5"
     },
     {
-      "name": "06_evening_room.jpg",
-      "bytes": 119250,
-      "sha256": "7dee79c1a8db112c38c3bddc3acc3a0ee3c52ab23052b28086fd6876129d3583"
+      "name": "06_steam.jpg",
+      "bytes": 232123,
+      "sha256": "55613e36a884caaee05296da3609ca9cfb1ad9b55253b7da45443cb9359bb893"
+    },
+    {
+      "name": "07_steam.jpg",
+      "bytes": 224225,
+      "sha256": "a9bb79349fc850cea5f790b5ae805479074127b3e14a9ea24907d59e1cb0d60f"
+    },
+    {
+      "name": "08_steam.jpg",
+      "bytes": 136890,
+      "sha256": "3171c1a62c7ef79b254446064478bcef5208ca2d4efbcee8caed695f41e42a20"
     },
     {
       "name": "companion-wide.jpg",
@@ -140,18 +150,18 @@
     },
     {
       "name": "factsheet.json",
-      "bytes": 3874,
-      "sha256": "1d57a3fe0cf3ccc74c695188721b351e2ec051c12a0b08136f55d210c0c6bb54"
+      "bytes": 7513,
+      "sha256": "11d39ad74f364999d19fe87bcc1a555b79530053d9f5fa6f80cfc545910690be"
     },
     {
       "name": "README.txt",
-      "bytes": 648,
-      "sha256": "2ac8f1a28bb401399e46d7b27057de37dbc4dbe6538302464da7b5705d70cddb"
+      "bytes": 628,
+      "sha256": "2d2109e1fbea6660baa680c2120726ad7c4ef288134bde8c4ad9d2b6ab478a06"
     },
     {
       "name": "index.html",
-      "bytes": 2134,
-      "sha256": "580133c07226597895b20d4ed51227c4a96df737986794140cb3bdb918b49cda"
+      "bytes": 2059,
+      "sha256": "b097a0dcd48b56158ca31e84132fa08a9cdb9114c9bca659f3e0d4c3b371adb3"
     },
     {
       "name": "press-release-ja.txt",
