@@ -183,5 +183,19 @@
       "bytes": 237,
       "sha256": "1c1c07f843894ba6cc86b0788c468adebfc8dab445d432daa6e0b2d00ea35113"
     }
+  ],
+  "separate_downloads": [
+    {
+      "name": "cozy-cat-room_gameplay_english_1080p.mp4",
+      "bytes": 43120162,
+      "sha256": "101bde434a0dd317b8550cf7e2bca72e5966057f8f2989bc8c3e5b74f41d8d21",
+      "included_in_zip": false
+    },
+    {
+      "name": "trailer-credits.txt",
+      "bytes": 1433,
+      "sha256": "9cdbc621f7bdf26f546b483c2f0c0e14ba109621d219c294c077e3383b66cbf4",
+      "included_in_zip": false
+    }
   ]
 }

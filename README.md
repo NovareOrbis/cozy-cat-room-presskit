@@ -10,4 +10,6 @@ The [October 28 editorial bundle](https://github.com/NovareOrbis/cozy-cat-room-p
 
 Press: press@novare-orbis.com
 
+Completed trailer (with music): [42-second 1080p MP4, 43.1 MB](https://github.com/NovareOrbis/cozy-cat-room-presskit/releases/download/presskit-2026-10-28-v9/cozy-cat-room_gameplay_english_1080p.mp4) · [Credits & coverage permissions](https://github.com/NovareOrbis/cozy-cat-room-presskit/releases/download/presskit-2026-10-28-v9/trailer-credits.txt). These are separate downloads, outside the compact materials ZIP. Publish the completed trailer as supplied for coverage; use silent footage for editing. Music extraction, standalone redistribution and reuse in other works are not included.
+
 Support: support@novare-orbis.com
