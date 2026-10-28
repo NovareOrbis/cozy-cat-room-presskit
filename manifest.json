@@ -1,7 +1,7 @@
 {
-  "release_tag": "presskit-2026-10-27-v7",
+  "release_tag": "presskit-2026-10-28-v8",
   "public_url": "https://novare-orbis.com/ja/press/cozy-cat-room/",
-  "archive_bytes": 4234625,
+  "archive_bytes": 4237952,
   "files": [
     {
       "name": "01_daytime_companion.jpg",
@@ -140,8 +140,8 @@
     },
     {
       "name": "factsheet.json",
-      "bytes": 3857,
-      "sha256": "0f8357892c2ab0215d35fe5cedaad806e9397a3e3c562766a66c33d8c7f54693"
+      "bytes": 3874,
+      "sha256": "1d57a3fe0cf3ccc74c695188721b351e2ec051c12a0b08136f55d210c0c6bb54"
     },
     {
       "name": "README.txt",
@@ -150,8 +150,28 @@
     },
     {
       "name": "index.html",
-      "bytes": 1910,
-      "sha256": "69b06cfd4a145ea2ff502593ada8b68a968d4125be4f028096c9fdbaa92bb379"
+      "bytes": 2134,
+      "sha256": "580133c07226597895b20d4ed51227c4a96df737986794140cb3bdb918b49cda"
+    },
+    {
+      "name": "press-release-ja.txt",
+      "bytes": 2520,
+      "sha256": "14cf1e0bf207f944b698a7754db766b20c25c043485af3c91b630f08dc1dcd7a"
+    },
+    {
+      "name": "short-ja.txt",
+      "bytes": 304,
+      "sha256": "1a5c0c78aa3ce9231088134f6462da56b9d61bc7035e75611c9b8a7e229ce834"
+    },
+    {
+      "name": "press-release-en.txt",
+      "bytes": 2203,
+      "sha256": "329f4a68919b6699670127d0dfccf902ed4a5f76aa088df1bf7a6f0a50ce3353"
+    },
+    {
+      "name": "short-en.txt",
+      "bytes": 237,
+      "sha256": "1c1c07f843894ba6cc86b0788c468adebfc8dab445d432daa6e0b2d00ea35113"
     }
   ]
 }
