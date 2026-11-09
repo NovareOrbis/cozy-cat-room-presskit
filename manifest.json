@@ -160,13 +160,13 @@
     },
     {
       "name": "press-release-en.txt",
-      "bytes": 2203,
-      "sha256": "329f4a68919b6699670127d0dfccf902ed4a5f76aa088df1bf7a6f0a50ce3353"
+      "bytes": 2311,
+      "sha256": "7efbdb9c4709fb2646a148e4bccf7d3be6f5bf911ac7d3d53d7aba15836e7a5a"
     },
     {
       "name": "press-release-ja.txt",
-      "bytes": 2520,
-      "sha256": "14cf1e0bf207f944b698a7754db766b20c25c043485af3c91b630f08dc1dcd7a"
+      "bytes": 2628,
+      "sha256": "8b90088738d31921a2e736c09f810f5927374d62d7c52f5f2dd5ecc14d58d8f3"
     },
     {
       "name": "short-en.txt",
@@ -195,8 +195,8 @@
     },
     {
       "name": "factsheet.json",
-      "bytes": 5222,
-      "sha256": "1e900c976fc2119529bbd91b36cd881e6cd34b7ea5adc5d4e39b20f68589b859"
+      "bytes": 5383,
+      "sha256": "5c06d9995c28a8c47fe39b15ed67632a73763b8b695e6f9ebf33af7c2a8519b1"
     },
     {
       "name": "README.txt",
@@ -210,8 +210,8 @@
     },
     {
       "name": "press-materials.zip",
-      "bytes": 6807795,
-      "sha256": "424a22b41d3b4855f0cffd3492e77570df2140d1bcc63404afeeed1470ae2c06"
+      "bytes": 6807912,
+      "sha256": "a10d2368acd8aad0b455e5fbf405019afd0199deb38096acb10ee7c49b90a67e"
     }
   ]
 }
