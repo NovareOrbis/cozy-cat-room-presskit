@@ -130,8 +130,8 @@
     },
     {
       "name": "header-capsule.png",
-      "bytes": 438534,
-      "sha256": "c01f67eca3dc1595bff758f64643d190ec33bc14ee59b1db7c0cdd9c54e90f0d"
+      "bytes": 463521,
+      "sha256": "d3c9e02651383d6cbcbf8d19c1595ebb54fde5f2835e5f71fcff141198655d2f"
     },
     {
       "name": "studio-icon.png",
@@ -210,8 +210,8 @@
     },
     {
       "name": "press-materials.zip",
-      "bytes": 6782798,
-      "sha256": "853ee8aec3fa3d8808e7baa821bad4ed32bbf8fac7cf402f825785a1f985caa4"
+      "bytes": 6807795,
+      "sha256": "424a22b41d3b4855f0cffd3492e77570df2140d1bcc63404afeeed1470ae2c06"
     }
   ]
 }
