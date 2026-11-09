@@ -1,112 +1,127 @@
 {
-  "release_tag": "presskit-2026-10-28-v9",
-  "public_url": "https://novare-orbis.com/ja/press/cozy-cat-room/",
-  "archive_bytes": 4892973,
+  "release_tag": "presskit-2026-11-09-v10",
+  "status": "prepared",
+  "public_url": "https://novare-orbis.com/en/press/cozy-cat-room/",
   "files": [
     {
       "name": "01_steam.jpg",
-      "bytes": 148073,
-      "sha256": "9746b66285ab807270557acc268eb192df094b079a9af0400a40d0da0c671593"
+      "bytes": 169368,
+      "sha256": "4e08d69500f7a110ad8827fb93ff566c8a4397cd91aad809319d754a332bcd5e"
     },
     {
       "name": "02_steam.jpg",
-      "bytes": 139041,
-      "sha256": "8cc165941345e559b37e01be2fc18bb8adbd719e676c1eee6c5c22d6de7c9117"
+      "bytes": 110942,
+      "sha256": "0a07de596f9556e753a45a7300847927237fad4510fc357318cd37fb7b48a274"
     },
     {
       "name": "03_steam.jpg",
-      "bytes": 120953,
-      "sha256": "440583621d8b1ec35a1055ee4f6042517f4f2555a8f0b2e15865e84ac423b691"
+      "bytes": 141189,
+      "sha256": "a1251ab8a5d9eb858182342df3c6b2ef24655849591efaa1ccf9f92f985b88a3"
     },
     {
       "name": "04_steam.jpg",
-      "bytes": 238936,
-      "sha256": "2864e298e8683077e32e73b9cb5d90bf1830905fde20b5483db8a728e1fcd62c"
+      "bytes": 137452,
+      "sha256": "fba2d6fd10d94ef708cad6092cb0a32746ece45496bd0573fea50868da2760c5"
     },
     {
       "name": "05_steam.jpg",
-      "bytes": 243182,
-      "sha256": "1e6d9d0b8ef3b88980b39a4d01ce4c86ce8252befeb658bb16596f15c9366de5"
+      "bytes": 109547,
+      "sha256": "3c4910ef7b84e0f40296c86290e3f61f99688dbb00df181d1d4d1e6ad30af15a"
     },
     {
       "name": "06_steam.jpg",
-      "bytes": 232123,
-      "sha256": "55613e36a884caaee05296da3609ca9cfb1ad9b55253b7da45443cb9359bb893"
+      "bytes": 192967,
+      "sha256": "92ce5741c9fa9cb3edf41d42d7722dbb30ade77ce331622feca727a05744086f"
     },
     {
       "name": "07_steam.jpg",
-      "bytes": 224225,
-      "sha256": "a9bb79349fc850cea5f790b5ae805479074127b3e14a9ea24907d59e1cb0d60f"
+      "bytes": 206225,
+      "sha256": "620e7ea02a012679f2392e8d6e765a2c24e62b68cacfc672573ad90689dae04b"
     },
     {
       "name": "08_steam.jpg",
-      "bytes": 136890,
-      "sha256": "3171c1a62c7ef79b254446064478bcef5208ca2d4efbcee8caed695f41e42a20"
+      "bytes": 205856,
+      "sha256": "17f8da405a51775abda9fbda366652810b32b5e0908ccc7259d71c9d7bb8e5f3"
     },
     {
-      "name": "companion-wide.jpg",
-      "bytes": 19224,
-      "sha256": "80a5c17581373ec065a795eb5ff09ff8b28d0cc378a96ae38d4a2496500c7629"
+      "name": "09_steam.jpg",
+      "bytes": 156686,
+      "sha256": "6b1469c8b35a727a79c30e28269a68552cba2cdc0847ab076b9a5c060de17f65"
     },
     {
       "name": "companion-wide.gif",
-      "bytes": 365378,
-      "sha256": "a657d7e71ca3de7b449ec28eda44f463470826d39267e456780905095bf57898"
+      "bytes": 1262127,
+      "sha256": "324a380eb211df671bde3ab1b2d195664c91570d5510d486d5fc9f764e178e67"
     },
     {
       "name": "companion-wide.mp4",
-      "bytes": 40886,
-      "sha256": "c8bfe74e1e1284edc1cabd95b5debe60838469006a5726d83c6816168932458b"
+      "bytes": 107086,
+      "sha256": "c4508925f978855dde56577406fb83e12bd9211521977ac1536516784eb8a02f"
     },
     {
-      "name": "room-wide.jpg",
-      "bytes": 38290,
-      "sha256": "98e11608e1d391be18601926f4a7e6dacdd587627c5b9091310bb2d599b0499b"
+      "name": "companion-wide.jpg",
+      "bytes": 29054,
+      "sha256": "a48e52393fc395fcfca343bf4902fb6a10b212f709e77b6fa24e213c32687311"
     },
     {
       "name": "room-wide.gif",
-      "bytes": 146681,
-      "sha256": "a07ab1fda51d3d4e4be04439a1d3765ca7bd61d311330be955f75ee898311ba1"
+      "bytes": 623121,
+      "sha256": "19ad21e791703a9b170ece05b60bd31b1c8de76d7271f9bc13e64c4b2376d5f7"
     },
     {
       "name": "room-wide.mp4",
-      "bytes": 87417,
-      "sha256": "bcea8fcbdc78334f2dac8fd8c8a2ae3afde3e9eb8722fd40ee79093d928f0f22"
+      "bytes": 123364,
+      "sha256": "63cd7bf35099de0086cb6835a6e82f1fd484e256142dea0b2de157643fa92c08"
     },
     {
-      "name": "pomodoro-wide.jpg",
-      "bytes": 7838,
-      "sha256": "a6bfc0476d0782fd13c14f62576c7b6a7a93045fc02cc580c1c95d09d7e0c8bc"
+      "name": "room-wide.jpg",
+      "bytes": 24989,
+      "sha256": "1539a58be66d9f599004a29eb07fe1328dcb668861ec8f291ff1fcb018ec51c6"
     },
     {
       "name": "pomodoro-wide.gif",
-      "bytes": 96073,
-      "sha256": "68e2a0f160c2d866bb5c936bad22e0d42d2ec7c651bf449dc4f6eef9901ad079"
+      "bytes": 323352,
+      "sha256": "ede21b9f50d19718bb5bcb02a4752f46cb64f66c572e02104284d45d7db65d66"
     },
     {
       "name": "pomodoro-wide.mp4",
-      "bytes": 18811,
-      "sha256": "4421efb5ca42837cfd6236fbc6ed361ca058e389c7300b6cc0360eadafa85027"
+      "bytes": 39315,
+      "sha256": "e803eb57a176d9c5b2238a97e54522f165908406f80a880861125a754d2afcc3"
+    },
+    {
+      "name": "pomodoro-wide.jpg",
+      "bytes": 25385,
+      "sha256": "7339412a9e70c2ba664eb820791a35c7715475c7acc46572ff810988c6bab478"
+    },
+    {
+      "name": "music-wide.gif",
+      "bytes": 990412,
+      "sha256": "2918ba295a9fa214245cdad0d6ef48054d6c5ec90e38edce6e379d1906a9c30c"
+    },
+    {
+      "name": "music-wide.mp4",
+      "bytes": 58389,
+      "sha256": "ae34999a3d6b4c689620209c208e1afb3eee594a2c6e6c95c4ab1b8035f37619"
     },
     {
       "name": "music-wide.jpg",
-      "bytes": 20792,
-      "sha256": "7e093d2bdb8a37460bfc2551a2b9dd3bf498dc8fc0688ca0dfbea461e5a6032c"
-    },
-    {
-      "name": "quiet-time-wide.jpg",
-      "bytes": 7494,
-      "sha256": "2fcd0e7af5c062b5eb9fd6d1eb6df7d20e1672eaeb46d3d48697beeb50f4fe58"
+      "bytes": 33203,
+      "sha256": "94510b1e8cdfb5e788e2a089dd36d2c40a2fbb3ee5390d50335c8d3211360174"
     },
     {
       "name": "quiet-time-wide.gif",
-      "bytes": 184019,
-      "sha256": "1832c2f65a270353eba5013f95377fc68727089fc653b441e60aba69fa79fd2f"
+      "bytes": 257347,
+      "sha256": "c9c4fad30278434bafa9b96718fb457532cfc18ae65de7017859e18637b37f6a"
     },
     {
       "name": "quiet-time-wide.mp4",
-      "bytes": 16491,
-      "sha256": "efe909dfb73a2bfc262da5dff9c0ac5abf3f0fa5e2c77b7827c34a0d4de4af98"
+      "bytes": 42308,
+      "sha256": "98953f90c816987ffadf0f28891bfa839b574389f4286f0578a14c263f68031b"
+    },
+    {
+      "name": "quiet-time-wide.jpg",
+      "bytes": 24413,
+      "sha256": "c0e29300a9ea5840566ffc297ab97b20afb9c6b2fc2ff1f2a4bb2a09f82aa633"
     },
     {
       "name": "game-logo.png",
@@ -124,9 +139,9 @@
       "sha256": "cb585d54cb94eee621be3b9caf967069eea17712bc0c0e96ea3509e40d6aa103"
     },
     {
-      "name": "gameplay-20s-silent.mp4",
-      "bytes": 1013193,
-      "sha256": "49bae1abd6366a290455208f9ac97aee6cc9a23077fdaea39bee794192ca0ea1"
+      "name": "about-en.txt",
+      "bytes": 1288,
+      "sha256": "0f7d26c29ca26d66fdffd5f242047fa1830411b5b527699612d2df22e0233a59"
     },
     {
       "name": "about-ja.txt",
@@ -134,44 +149,14 @@
       "sha256": "3e0eef1abcc679d9e017bb2c2c13876d093475d4a31a3533917f80841ec203f6"
     },
     {
-      "name": "product-ja.txt",
-      "bytes": 2052,
-      "sha256": "487db3ece4f858263eeaac5546a67555c8af0918f1040502e8f2a73c4ca073e5"
-    },
-    {
-      "name": "about-en.txt",
-      "bytes": 1288,
-      "sha256": "0f7d26c29ca26d66fdffd5f242047fa1830411b5b527699612d2df22e0233a59"
-    },
-    {
       "name": "product-en.txt",
       "bytes": 1545,
       "sha256": "d8b585acbbc4ea783631f3a62ca84db9d0da6a0cfe6258f90a962083892b1de4"
     },
     {
-      "name": "factsheet.json",
-      "bytes": 7513,
-      "sha256": "11d39ad74f364999d19fe87bcc1a555b79530053d9f5fa6f80cfc545910690be"
-    },
-    {
-      "name": "README.txt",
-      "bytes": 628,
-      "sha256": "2d2109e1fbea6660baa680c2120726ad7c4ef288134bde8c4ad9d2b6ab478a06"
-    },
-    {
-      "name": "index.html",
-      "bytes": 2059,
-      "sha256": "b097a0dcd48b56158ca31e84132fa08a9cdb9114c9bca659f3e0d4c3b371adb3"
-    },
-    {
-      "name": "press-release-ja.txt",
-      "bytes": 2520,
-      "sha256": "14cf1e0bf207f944b698a7754db766b20c25c043485af3c91b630f08dc1dcd7a"
-    },
-    {
-      "name": "short-ja.txt",
-      "bytes": 304,
-      "sha256": "1a5c0c78aa3ce9231088134f6462da56b9d61bc7035e75611c9b8a7e229ce834"
+      "name": "product-ja.txt",
+      "bytes": 2052,
+      "sha256": "487db3ece4f858263eeaac5546a67555c8af0918f1040502e8f2a73c4ca073e5"
     },
     {
       "name": "press-release-en.txt",
@@ -179,23 +164,54 @@
       "sha256": "329f4a68919b6699670127d0dfccf902ed4a5f76aa088df1bf7a6f0a50ce3353"
     },
     {
+      "name": "press-release-ja.txt",
+      "bytes": 2520,
+      "sha256": "14cf1e0bf207f944b698a7754db766b20c25c043485af3c91b630f08dc1dcd7a"
+    },
+    {
       "name": "short-en.txt",
       "bytes": 237,
       "sha256": "1c1c07f843894ba6cc86b0788c468adebfc8dab445d432daa6e0b2d00ea35113"
-    }
-  ],
-  "separate_downloads": [
+    },
+    {
+      "name": "short-ja.txt",
+      "bytes": 304,
+      "sha256": "1a5c0c78aa3ce9231088134f6462da56b9d61bc7035e75611c9b8a7e229ce834"
+    },
     {
       "name": "cozy-cat-room_gameplay_english_1080p.mp4",
-      "bytes": 43120162,
-      "sha256": "101bde434a0dd317b8550cf7e2bca72e5966057f8f2989bc8c3e5b74f41d8d21",
-      "included_in_zip": false
+      "bytes": 12079400,
+      "sha256": "4923806e5d428b7cab63761ae5069eb6373c66fb80ff7653c8be54813f0d2455"
+    },
+    {
+      "name": "gameplay-73s-silent.mp4",
+      "bytes": 10266213,
+      "sha256": "6e14b6030bd091baccc2732502d864955b517c58c300138ebf4db31cefe72509"
     },
     {
       "name": "trailer-credits.txt",
-      "bytes": 1433,
-      "sha256": "9cdbc621f7bdf26f546b483c2f0c0e14ba109621d219c294c077e3383b66cbf4",
-      "included_in_zip": false
+      "bytes": 1483,
+      "sha256": "c73c50d4904a68404c8019158e26bbfbe71c6608bbd9ba7b447b63822f70da35"
+    },
+    {
+      "name": "factsheet.json",
+      "bytes": 5222,
+      "sha256": "1e900c976fc2119529bbd91b36cd881e6cd34b7ea5adc5d4e39b20f68589b859"
+    },
+    {
+      "name": "README.txt",
+      "bytes": 816,
+      "sha256": "cbe92a0c3fd2c936b047d343c54c3c1d1e274a9b286f41135f1f2273d7754e50"
+    },
+    {
+      "name": "index.html",
+      "bytes": 2466,
+      "sha256": "1939b5a507a11a2ff45193e6b9e8f013bccbb2f3ac930e72cc7834669f0f5196"
+    },
+    {
+      "name": "press-materials.zip",
+      "bytes": 6782798,
+      "sha256": "853ee8aec3fa3d8808e7baa821bad4ed32bbf8fac7cf402f825785a1f985caa4"
     }
   ]
 }
